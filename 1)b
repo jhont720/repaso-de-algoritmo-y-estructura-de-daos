@@ -1,9 +1,0 @@
-numero1 = int(input("Introduce el primer número: "))
-numero2 = int(input("Introduce el segundo número: "))
-
-if numero1 > numero2:
-    print(f"Este es el número mayor: {numero1}")
-elif numero1 < numero2:
-    print(f"Este es el número mayor: {numero2}")
-else:
-    print("Los números ingresados son iguales.")
