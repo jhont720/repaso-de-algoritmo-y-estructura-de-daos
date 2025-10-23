@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Página de Tigres</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <h1>los tigres de bengala 🐯</h1>
+    
+    <img src="tigre-bengala.jpg" alt="un tigre bien grande que vi en google" width="450">
+    
+    <p>la, soy hice esta página porque siempre me han gustado los tigres desde que tenía como 10 años y vi un documental en la tele.</p>
+    
+    <p>Resulta que los tigres de bengala viven en India y por ahí. La verdad es que casi no quedan, creo que leí que hay como 2500 nada más en todo el mundo, lo cual es una pena.</p>
+    
+    <p><strong>Lo que más me impresiona:</strong> pesan como 200 kilos Imaginate un gato de ese tamaño, es enorme.</p>
+
+    <p style="color: #cc5500; background-color: #fff5e6; padding: 10px; border-radius: 5px;">
+        <strong>Algo que no sabía:</strong> nadan re bien y hasta cazan en el agua, pensé que a los gatos no les gustaba el agua jaja
+    </p>
+    
+    <a href="https://www.animalesis.com/tigres" title="donde saco info de animales" style="color: #006400;">
+         Acá encontré más info por si quieren ver
+    </a>
+    
+    <br><br>
+    
+    <div data-tipo="felino" data-region="asia" style="border: 1px solid #999; padding: 8px; background: #f9f9f9;">
+        <strong>Apuntes que fui juntando para el cole:</strong>
+        <br>- Comen: ciervos, búfalos, esas cosas
+        <br>- Viven: en bosques y manglares
+        <br>- Cazan: más que nada de noche
+        <br>- Tamaño: como 3 metros contando la cola
+    </div>
+    
+    <p title="ojalá no se extingan sería  triste">
+    <p hidden>la verdad que me gustaría ver uno en persona algún día, pero en el zoológico no cuenta</p>
+</body>
